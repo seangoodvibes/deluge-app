@@ -52,6 +52,10 @@
   --gold-encoder-line: #dbad69;
   --gold-encoder-text: #fcedd5;
 
+  --blue-button-fill: #33ccff;
+  --blue-button-line: #33ccff;
+  --blue-button-text: #fcedd5;
+
   --code-fill: var(--dark);
 
   --sidebar-width: 14em;

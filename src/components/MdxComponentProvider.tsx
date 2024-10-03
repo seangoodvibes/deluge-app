@@ -7,6 +7,7 @@ const components = {
   SelectEncoder: React.lazy(() => import('./encoders/SelectEncoder')),
   LowerModEncoder: React.lazy(() => import('./encoders/LowerModEncoder')),
   UpperModEncoder: React.lazy(() => import('./encoders/UpperModEncoder')),
+  ClipButtonActive: React.lazy(() => import('./buttons/ClipButton')),
 }
 
 export const MdxComponentProvider = ({ children }: { children: React.ReactNode }) => (
